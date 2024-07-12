@@ -1,9 +1,8 @@
 # Gibber: All in one website.💻💭
-<br>
 Project Description:-
 <br>
 A personal chat room or workspace can be built using Material UI, ReactJS and Firebase. This platform would allow users to share resources and hang out with friends. It would also have features for real-time messaging, virtual meetings, posting blogs, and receiving daily news updates.
-
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
