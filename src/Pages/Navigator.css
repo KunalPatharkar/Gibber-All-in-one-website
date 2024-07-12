@@ -1,0 +1,42 @@
+.navmain {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #2f3135;
+}
+
+li {
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+  text-decoration: none;
+}
+
+.nav_header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 5px 5%;
+}
+
+.nav_header > h1 {
+  cursor: pointer;
+  margin-right: auto;
+  font-size: xx-large;
+  color: rgb(13, 148, 211);
+}
+
+.nav_ul {
+  list-style: none;
+}
+
+.nav_ul li {
+  display: inline-block;
+  padding: 0px 20px;
+  transition: all 0.3s ease 0s;
+  color: gray;
+}
+
+.nav_ul li :hover {
+  color: white;
+}

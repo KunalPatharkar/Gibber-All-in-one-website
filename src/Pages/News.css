@@ -1,0 +1,13 @@
+.news {
+  /* display: block; */
+  flex-direction: row;
+  height: 100vh;
+  background-color: #2f3135;
+}
+
+.news_card {
+  display: block;
+  width: 500px;
+  height: auto;
+  float: left;
+}
